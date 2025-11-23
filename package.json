@@ -1,0 +1,10 @@
+{
+  "name": "@fnet/relay",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "socket.io": "^4.8.1"
+  }
+}
